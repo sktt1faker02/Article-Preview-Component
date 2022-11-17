@@ -52,6 +52,7 @@ body {
   align-items: center;
   background: var(--light-grayish-blue);
   padding: 20px;
+  flex-direction: column;
 }
 
 main {
@@ -213,6 +214,8 @@ main:hover .article_banner {
          */
 
     --fs-13: 12px;
+  }
+  body {
   }
 
   main {
